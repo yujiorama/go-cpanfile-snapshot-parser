@@ -3,7 +3,7 @@ module github.com/yujiorama/go-cpanfile-snapshot-parser
 go 1.18
 
 require (
-	github.com/onsi/gomega v1.27.5
+	github.com/onsi/gomega v1.27.6
 	github.com/sclevine/spec v1.4.0
 )
 
